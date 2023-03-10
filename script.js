@@ -10,4 +10,7 @@ document.write('Hello there! <br> Welcome to learning strings');
 
 document.write('Hello there! <br> "Welcome" to learning strings');
 
+document.write("it's okay");
+
+// same with single qutation marks
 // to get quotation marks inside a string
